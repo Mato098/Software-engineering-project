@@ -1,5 +1,7 @@
 # A software engineering project made by collaborating in a small group for the course Software Engineering I
 
+Entailed designing an app for city rent-a-motorcycle service
+
 ![Page 2](https://github.com/Mato098/Software-engineering-project/blob/main/1.png)
 ![Page 2](https://github.com/Mato098/Software-engineering-project/blob/main/2.png)
 ![Page 2](https://github.com/Mato098/Software-engineering-project/blob/main/3.png)
