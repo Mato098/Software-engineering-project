@@ -1,4 +1,4 @@
-A software engineering project made by collaborating in a small group for course Software Engineering I
+# A software engineering project made by collaborating in a small group for the course Software Engineering I
 
 ![Page 2](https://github.com/Mato098/Software-engineering-project/blob/main/1.png)
 ![Page 2](https://github.com/Mato098/Software-engineering-project/blob/main/2.png)
